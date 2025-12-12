@@ -1,4 +1,5 @@
-![Cloud](https://github.com/user-attachments/assets/3bad0a7a-ef2a-40ca-99e3-d0c4c6847061)
+<img src="https://github.com/user-attachments/assets/3bad0a7a-ef2a-40ca-99e3-d0c4c6847061" alt="Cloud" style="width:100%; height:350px;">
+
 
 # Hi, I'm Saket Mishra 👋
 
