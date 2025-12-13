@@ -1,5 +1,5 @@
-<img src="https://github.com/user-attachments/assets/3bad0a7a-ef2a-40ca-99e3-d0c4c6847061" alt="Cloud" style="width:100%; height:350px;">
 
+<img  style="width:100%; height:400px;" alt="Devops" src="https://github.com/user-attachments/assets/463c43f7-2aa4-4898-812f-c85b8ba7bf4a" />
 
 # Hi, I'm Saket Mishra 👋
 
