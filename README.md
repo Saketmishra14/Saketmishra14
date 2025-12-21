@@ -1,4 +1,4 @@
-# Saket Mishra | Full Stack Developer | Software Developer
+# Saket Mishra | Full Stack Developer
 <img  style="width:100%; height:400px;" alt="" src="https://github.com/user-attachments/assets/463c43f7-2aa4-4898-812f-c85b8ba7bf4a" />
 
 # Hi, I'm Saket Mishra 👋
