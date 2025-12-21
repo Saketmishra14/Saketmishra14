@@ -1,7 +1,5 @@
-<head>
-<meta name="google-site-verification" content="c1MHTS3Xq1veX1-oZJxyVo-wSW7PCdeaptRjHSn7aQQ" />
-</head>
-<img  style="width:100%; height:400px;" alt="Devops" src="https://github.com/user-attachments/assets/463c43f7-2aa4-4898-812f-c85b8ba7bf4a" />
+# Saket Mishra | Full Stack Developer | Software Developer
+<img  style="width:100%; height:400px;" alt="" src="https://github.com/user-attachments/assets/463c43f7-2aa4-4898-812f-c85b8ba7bf4a" />
 
 # Hi, I'm Saket Mishra 👋
 
@@ -10,8 +8,6 @@ I'm a **Full-Stack Developer** specializing in **MERN stack**, building modern w
 💻 Check out my **portfolio**: [Saket Mishra](https://portfolio-sm-nine.vercel.app/)  
 
 I'm always learning, building, and sharing knowledge to help the developer community. 🚀
-
-
 
 <br>
 
