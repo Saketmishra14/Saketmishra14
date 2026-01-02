@@ -1,9 +1,9 @@
-# Saket Mishra | Full Stack Developer
-<img  style="width:100%; height:400px;" alt="" src="https://github.com/user-attachments/assets/463c43f7-2aa4-4898-812f-c85b8ba7bf4a" />
+
+<img width="1024" height="406" alt="saket-mishra-full-stack-developer-github-banner" src="https://github.com/user-attachments/assets/6f296aec-09e5-478e-bca3-6227a6be345d" />
 
 # Hi, I'm Saket Mishra 👋
 
-I'm a **Full-Stack Developer** specializing in **MERN stack**, building modern web applications with **React**, **Node.js**, **Express**, and **MongoDB**. I love creating **end-to-end projects**, exploring **DevOps**, and solving **algorithm challenges** on platforms like **LeetCode**.  
+I'm a **Full-Stack Developer** specializing in **MERN stack**, building modern web applications with **React**, **Node.js**, **Express**, and **MongoDB**. I love creating **end-to-end projects** and solving **algorithm challenges** on platforms like **LeetCode**.  
 
 💻 Check out my **portfolio**: [Saket Mishra](https://portfolio-sm-nine.vercel.app/)  
 
