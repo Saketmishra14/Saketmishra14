@@ -1,6 +1,3 @@
-
-<img width="1024" height="406" alt="saket-mishra-full-stack-developer-github-banner" src="https://github.com/user-attachments/assets/6f296aec-09e5-478e-bca3-6227a6be345d" />
-
 # Hi, I'm Saket Mishra 👋
 
 I'm a **Full-Stack Developer** specializing in **MERN stack**, building modern web applications with **React**, **Node.js**, **Express**, and **MongoDB**. I love creating **end-to-end projects** and solving **algorithm challenges** on platforms like **LeetCode**.  
