@@ -2,7 +2,7 @@
 
 I'm a **Full-Stack Developer** specializing in **MERN stack**, building modern web applications with **React**, **Node.js**, **Express**, and **MongoDB**. I love creating **end-to-end projects** and solving **algorithm challenges** on platforms like **LeetCode**.  
 
-💻 Check out my **portfolio**: [Saket Mishra](https://portfolio-sm-nine.vercel.app/)  
+💻 Check out my **portfolio**: [Saket Mishra](https://www.saketmishra.in/)  
 
 I'm always learning, building, and sharing knowledge to help the developer community. 🚀
 
